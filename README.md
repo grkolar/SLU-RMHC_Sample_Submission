@@ -65,6 +65,10 @@ The notes section is for any additional instructions such as tissue orientation,
 
 When finished, select Save at the top of the screen. 
 
+Watch a Video Tutorial here:
+
+https://user-images.githubusercontent.com/79376557/159555745-d23a9cf0-30f6-4f78-95be-d6d3317a5f6c.mp4
+
 ## Tracking Service Orders
 
 ![Picture11](https://user-images.githubusercontent.com/79376557/159554766-38c9aa5d-2924-4e55-bba0-260e434f94b8.png)
