@@ -9,6 +9,10 @@ Go to https://slu-mhc.calpendo.com/ and click Register new user.
 
 After approval, the first page you see upon logging in is the **Information Pages**. These contain a list of equipment, services, submission policies, and frequently asked questions. Navigation between the pages is on the left side of the screen.
 
+***Watch a video overview here:***
+
+https://user-images.githubusercontent.com/79376557/159560604-ef5c4eaa-4f67-42b1-9bee-0b4255a7ab91.mp4
+
 ## Projects
 
 On the navigation bar, hover your mouse over **Projects** to access the dropdown menu. *A project is generally set up to be the equivalent of a grant.* A project can be used for multiple sample submissions or bookings. *Each sample submission or booking time must be associated with a project and each project must have a fund number.* How the projects are defined for your lab will depend on the Principal Investigator.
@@ -43,6 +47,14 @@ When finished, click **Save** in the upper left hand corner.
 
 ![Picture5](https://user-images.githubusercontent.com/79376557/159554231-d9a3c824-ea1d-422b-95f7-8897f9cf037a.png)
 
+***Watch a video tutorial on how to create a project here:***
+
+https://user-images.githubusercontent.com/79376557/159555745-d23a9cf0-30f6-4f78-95be-d6d3317a5f6c.mp4
+
+***Watch a video tutorial on how to track all of your projects here:***
+
+https://user-images.githubusercontent.com/79376557/159562560-80addaa7-a995-4d95-803c-2b94245c0194.mp4
+
 ## Submitting Samples
 
 ![Picture1](https://user-images.githubusercontent.com/79376557/159554280-75991a07-4a6c-437c-892c-be970b5abfcc.png)
@@ -65,9 +77,9 @@ The notes section is for any additional instructions such as tissue orientation,
 
 When finished, select Save at the top of the screen. 
 
-Watch a Video Tutorial here:
+***Watch a Video Tutorial here:***
 
-https://user-images.githubusercontent.com/79376557/159555745-d23a9cf0-30f6-4f78-95be-d6d3317a5f6c.mp4
+https://user-images.githubusercontent.com/79376557/159561465-bb386fa1-c1c9-449b-a6ba-e2647ce35e11.mp4
 
 ## Tracking Service Orders
 
@@ -76,6 +88,10 @@ https://user-images.githubusercontent.com/79376557/159555745-d23a9cf0-30f6-4f78-
 From the **Services** dropdown menu select **My Service Orders**. Select a time range on the bottom left to pull up any service orders that have been submitted by you. A service order will only show up once it has been approved. The current status of the services order will be updated as it is worked on. Selecting the row of a specific order will bring up a copy of the original order submitted. The search can be refined using the left column or the row just below the navigation menu.  
 
 To track all the services on a particular project/grant, select **My Projects’ Order** from the **Services** drop-down menu. The page functions the same as above.  
+
+***Watch the video tutorial here:***
+
+https://user-images.githubusercontent.com/79376557/159560775-dc91e43d-6f05-431b-8c46-cd78232a378a.mp4
 
 ## Booking Scope Time
 
@@ -97,7 +113,7 @@ To cancel a booking, select it on the calendar and press edit. Select **Cancel B
 
 ![Picture15](https://user-images.githubusercontent.com/79376557/159555117-0bb7c75e-ca4c-41e1-a114-302589fb4c88.png)
 
-## Live Tracking Booking Time
+## Live Tracking Microscope Time
 In the near future, your microscope usage will be live tracked using the **Resource Usage Session Recorder** located under the **Usage** tab. This is replacing the paper sheet that is currently tracking actual usage vs. booked time.  
 
 ![Picture16](https://user-images.githubusercontent.com/79376557/159555225-d88c0c3d-fff7-497f-b564-9d4e4446b8b1.png)
@@ -105,3 +121,8 @@ In the near future, your microscope usage will be live tracked using the **Resou
 You will need to select a project to associated with the time being recorded as well as the booking that it represents. Once selected, press Start Session. When you are done, press **End Session**.  
 
 ![Picture17](https://user-images.githubusercontent.com/79376557/159555282-0961ecd2-42ef-4e3f-9547-2f491c6befea.png)
+
+***Watch how to book and track scope time here:***
+
+https://user-images.githubusercontent.com/79376557/159560960-80bc3889-be6f-4f05-899f-82340fe5179f.mp4
+
