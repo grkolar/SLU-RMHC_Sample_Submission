@@ -1,6 +1,14 @@
 # SLU-RMHC_Sample_Submission
 These resources describe how to submit samples or reserve time on instruments via the RMHC Calpendo system.
 
+- [Table of Contents](#table-of-contents)
+  * [Getting Started with SLU Calpendo Website](#getting-started-with-slu-calpendo-website)
+  * [Projects](#projects)
+  * [Submitting Samples](#submitting-samples)
+  * [Tracking Service Orders](#tracking-service-orders)
+  * [Booking Scope Time](#booking-scope-time)
+  * [Live Tracking Microscope Time](#live-tracking-microscope-time)
+
 ## Getting Started with SLU Calpendo Website 
 
 Go to https://slu-mhc.calpendo.com/ and click Register new user.
