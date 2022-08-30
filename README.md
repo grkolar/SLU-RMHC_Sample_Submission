@@ -13,7 +13,7 @@ These resources describe how to submit samples or reserve time on instruments vi
 
 Go to https://slu-mhc.calpendo.com/ and click Register new user.
 
-***Note: Until the website is connected to Okta, register using a local account. For ease of eventual transition, make sure your username is the same as your Okta/SLU username***
+***Note: Until the website is connected to Okta, register using a LOCAL ACCOUNT. For ease of eventual transition, make sure your username is the same as your Okta/SLU username***
 
 After approval, the first page you see upon logging in is the **Information Pages**. These contain a list of equipment, services, submission policies, and frequently asked questions. Navigation between the pages is on the left side of the screen.
 
