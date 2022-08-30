@@ -99,7 +99,7 @@ To track all the services on a particular project/grant, select **My Projects’
 
 ***Watch the video tutorial here:***
 
-https://user-images.githubusercontent.com/79376557/159560775-dc91e43d-6f05-431b-8c46-cd78232a378a.mp4
+https://drive.google.com/file/d/18JhOqDUBJZGQHox6q6QKT2HvQxO-uYME/view?usp=sharing
 
 ## Booking Scope Time
 
